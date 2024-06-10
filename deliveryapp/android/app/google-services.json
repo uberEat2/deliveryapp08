@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "126951013002",
+    "firebase_url": "https://deliveryapp-ceb6b-default-rtdb.firebaseio.com",
+    "project_id": "deliveryapp-ceb6b",
+    "storage_bucket": "deliveryapp-ceb6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126951013002:android:4a357670fb0061e4e90b73",
+        "android_client_info": {
+          "package_name": "com.mycompany.deliveryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126951013002-hsdk5cpc237uc07ukt1v2u2vvv1ods87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlcTYeciIcHx1YH12cxccLpai1A-XttNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126951013002-hsdk5cpc237uc07ukt1v2u2vvv1ods87.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "126951013002-1n9u53dluf0fe6aqeebhkghilhtvrahh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.deliveryapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
